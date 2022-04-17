@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Patel_Zeal_04172022_TakeHome_1_pt2", "Patel_Zeal_04172022_TakeHome_1_pt2\Patel_Zeal_04172022_TakeHome_1_pt2.vcxproj", "{F4FEC02C-132D-40CD-A85E-9788675C26AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4FEC02C-132D-40CD-A85E-9788675C26AC}.Debug|x64.ActiveCfg = Debug|x64
+		{F4FEC02C-132D-40CD-A85E-9788675C26AC}.Debug|x64.Build.0 = Debug|x64
+		{F4FEC02C-132D-40CD-A85E-9788675C26AC}.Debug|x86.ActiveCfg = Debug|Win32
+		{F4FEC02C-132D-40CD-A85E-9788675C26AC}.Debug|x86.Build.0 = Debug|Win32
+		{F4FEC02C-132D-40CD-A85E-9788675C26AC}.Release|x64.ActiveCfg = Release|x64
+		{F4FEC02C-132D-40CD-A85E-9788675C26AC}.Release|x64.Build.0 = Release|x64
+		{F4FEC02C-132D-40CD-A85E-9788675C26AC}.Release|x86.ActiveCfg = Release|Win32
+		{F4FEC02C-132D-40CD-A85E-9788675C26AC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D54A166-E394-4C28-A70D-A753A2034796}
+	EndGlobalSection
+EndGlobal
