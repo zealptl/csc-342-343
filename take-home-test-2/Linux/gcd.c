@@ -1,15 +1,11 @@
-#include <stdio.h>
-
 int gcd(int a, int b) {
-if (a == 0)
-return b;
-return gcd(b%a, a);
+    if (b == 0)
+        return a;
+    else
+        gcd(b, a%b);
 }
 
-int main()
-{
-int a = 11, b = 5;
-printf("GCD(%d, %d) = %dn", a, b, gcd(a,b));
-return 0;
-
+int main() {
+    int gcd_res = gcd(6,22);
+    return 0;
 }
